@@ -34,7 +34,7 @@ The analysis covers various aspects of the employee retention, including:
 - Microsoft Power BI: To visualize the analysis power BI tool is used to make dashboards .
 
 ## Repository Structure
-- **data**: Contains the dataset files used for the analysis.
+- **Data**: Contains the dataset files used for the analysis.
 - **README.md**: This file, providing an overview of the project and instructions for reproducing the analysis.
 - **Dashboard pdf**: This file, providing an overview of the project dashboard for reproducing the analysis.
 
