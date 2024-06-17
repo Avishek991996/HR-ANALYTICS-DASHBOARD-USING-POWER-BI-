@@ -38,15 +38,7 @@ The analysis covers various aspects of the employee retention, including:
 - **README.md**: This file, providing an overview of the project and instructions for reproducing the analysis.
 - **Dashboard pdf**: This file, providing an overview of the project dashboard for reproducing the analysis.
 
-## Usage
-To replicate the analysis:
-1. Clone this repository to your local machine.
-2. Navigate to the `notebooks` directory.
-3. Run the queries to your SQL tool to find results.
-
 ## Contributions
 Contributions to improve the analysis or add new features are welcome. If you find any issues or have suggestions for enhancements, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
